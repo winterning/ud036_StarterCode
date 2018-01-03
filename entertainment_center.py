@@ -1,28 +1,29 @@
+# -*- coding: utf-8 -*-
 import media
 import fresh_tomatoes
-movieOne = media.Movie("All NEW Ranked Changes, Skins & Events EXPLAINED",
-                                   "https://i.ytimg.com/vi/Bkd0jWUHIpI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLB0IbW3eMEVbflb4pBNvSuJWlf0dw",
-                                   "https://www.youtube.com/watch?v=Bkd0jWUHIpI")
+movieOne = media.Movie("WILD CHILD",
+                       "https://i.ytimg.com/vi/v2oC2vJailQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLBRKvnEOZVhlG9lF9-wYm6t0HEtDg",
+                       "https://www.youtube.com/watch?v=v2oC2vJailQ")
 
-movieTwo = media.Movie("How PROS Counter Bastion Cheese Comp!",
-                       "https://i.ytimg.com/vi/-i14IPf67UY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCH9mJJ9HJwXh7kgAb3pyqsNVRwBg",
-                       "https://www.youtube.com/watch?v=-i14IPf67UY&t=3s")
-
-movieThree = media.Movie("Dunkirk - Trailer 1",
+movieTwo = media.Movie("Dunkirk",
                        "https://i.ytimg.com/vi/F-eMt3SrfFU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCSB1BwLMAt6XmH2oQjWN8IYOXfZw",
-                       "https://www.youtube.com/watch?v=F-eMt3SrfFU&t=37s")
+                       "https://www.youtube.com/watch?v=F-eMt3SrfFU&t=46s")
 
-movieFour = media.Movie("Jeff Kaplan trolls entire overwatch stream",
-                       "https://i.ytimg.com/vi/SjDtOMAULLg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCFD8WZYjvcrQkR-Sxt88pxrJAPJA",
-                       "https://www.youtube.com/watch?v=SjDtOMAULLg")
+movieThree = media.Movie("ALGORITHM: The Hacker",
+                       "https://i.ytimg.com/vi/6qpudAhYhpc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCnDfwpDHVk9JWmB6vNxGXoEjI4yQ",
+                       "https://www.youtube.com/watch?v=6qpudAhYhpc")
 
-movieFive = media.Movie("Streamers vs Pros",
-                       "https://i.ytimg.com/vi/Kk54eP4OTNw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLBOWbcBKMzRNM59GJgDpyTEVYXCOw",
-                       "https://www.youtube.com/watch?v=Kk54eP4OTNw")
+movieFour = media.Movie("THE MARS UNDERGROUND ",
+                       "https://i.ytimg.com/vi/tcTZvNLL0-w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLBJVC2m8lPFJO0XwYHrfbW1a3UFDw",
+                       "https://www.youtube.com/watch?v=tcTZvNLL0-w")
 
-movieSix = media.Movie("Greatest Team Kills",
-                       "https://i.ytimg.com/vi/NFKZGWUOreY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLBxhG0OppAD9_GTHSeitpZwERyV2Q",
-                       "https://www.youtube.com/watch?v=NFKZGWUOreY")
+movieFive = media.Movie("Last Passenger",
+                       "https://i.ytimg.com/vi/QRriteWU9UI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCtntMPABvSO4lk3HsbjzpAGRuPYQ",
+                       "https://www.youtube.com/watch?v=QRriteWU9UI")
+
+movieSix = media.Movie("英伦对决",
+                       "https://i.ytimg.com/vi/r_rSAbYyIq0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLC3m3cfQoxUpM82Ap4qt8ODVxJ2Pg",
+                       "https://www.youtube.com/watch?v=r_rSAbYyIq0")
 
 movieList = [movieOne,movieTwo,movieThree,movieFour,movieFive,movieSix]
 

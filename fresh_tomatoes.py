@@ -159,7 +159,7 @@ def open_movies_page(movies):
         movie_tiles=create_movie_tiles_content(movies))
 
     # Output the file
-    output_file.write(main_page_head + rendered_content)
+    output_file.write(unicode((main_page_head + rendered_content),'utf-8').encode('utf8'))
     output_file.close()
 
     # open the output file in the browser (in a new tab, if possible)
