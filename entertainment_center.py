@@ -8,7 +8,7 @@ movieTwo = media.Movie("How PROS Counter Bastion Cheese Comp!",
                        "https://i.ytimg.com/vi/-i14IPf67UY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCH9mJJ9HJwXh7kgAb3pyqsNVRwBg",
                        "https://www.youtube.com/watch?v=-i14IPf67UY&t=3s")
 
-movieThree = media.Movie("Dunkirk - Trailer 1 [HD]",
+movieThree = media.Movie("Dunkirk - Trailer 1",
                        "https://i.ytimg.com/vi/F-eMt3SrfFU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFDyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLCSB1BwLMAt6XmH2oQjWN8IYOXfZw",
                        "https://www.youtube.com/watch?v=F-eMt3SrfFU&t=37s")
 
